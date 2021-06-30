@@ -1,0 +1,9 @@
+div {
+    padding: 10%;
+    border: 1px solid #ccc;
+    outline: 4px dotted;
+    outline-color:#ffff00;
+}
+p{
+    text-shadow: 2px 4px 3px ;
+}
